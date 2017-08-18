@@ -1,0 +1,47 @@
+node_modules
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+views/dist
+views/tmp
+views/out-tsc
+
+# dependencies
+views/node_modules
+
+# IDEs and editors
+views/.idea
+views/.project
+views/.classpath
+views/.c9/
+views/*.launch
+views/.settings/
+views/*.sublime-workspace
+
+# IDE - VSCode
+views/.vscode/*
+views/!.vscode/settings.json
+views/!.vscode/tasks.json
+views/!.vscode/launch.json
+!views/!.vscode/extensions.json
+
+# misc
+views/!.sass-cache
+views/connect.lock
+views/coverage
+views/libpeerconnection.log
+views/npm-debug.log
+views/testem.log
+views/typings
+
+# e2e
+views/e2e/*.js
+views/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# video audio files
+views/src/assets/video/
+views/src/assets/audio/
