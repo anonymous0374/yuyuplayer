@@ -1,0 +1,9 @@
+<div class='resource-audio'>
+    <p class='resource-title'>{{resource["display name"]}}</p>
+    <p class='resource-artist'>艺术家： {{resource.artist}}</p>
+    
+    <audio controls preload="metadata" src='{{resource.path + "/" + resource.name}}' class='audio'>
+    </audio>
+</div>
+    
+    

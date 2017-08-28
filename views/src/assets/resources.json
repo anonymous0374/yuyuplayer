@@ -1,0 +1,137 @@
+{
+    "videos": [{
+        "name": "old-love.mp4",
+        "display name": "Old Love",
+        "type": "video",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "Eric Clapton"
+    }, {
+        "name": "wonderful-tonight.mp4",
+        "display name": "Wonderful Tonight",
+        "format": "mp4",
+        "type": "video",
+        "path": "assets/video",
+        "artist": "Eric Clapton"
+    }, {
+        "name": "he's a pirate.mp4",
+        "display name": "He's a Pirate!",
+        "type": "video",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "Hans Zimmer"
+    }, {
+        "name": "paradise.mp4",
+        "display name": "Paradise",
+        "type": "video",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "Cold Play"
+    }, {
+        "name": "lady-flower-hd.mp4",
+        "display name": "女人花",
+        "type": "video",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "group"
+    }, {
+        "name": "GEM - Hallelujah.mp4",
+        "display name": "Hallelujah",
+        "type": "video",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "G.E.M"
+    }, {
+        "name": "without-you.mp4",
+        "display name": "Without You",
+        "type": "video",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "Yoshiki"
+    }, {
+        "name": "forever-love.mp4",
+        "display name": "Forever Love",
+        "type": "video",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "X Japan"
+    }, {
+        "name": "could-you-be-loved.mp4",
+        "display name": "Could You be Loved",
+        "type": "video",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "Bob Marley"
+    }, {
+        "name": "is-this-love.mp4",
+        "display name": "Is this Love?",
+        "type": "video",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "Bob Marley"
+    }, {
+        "name": "no-woman-no-cry.mp4",
+        "display name": "No Woman No Cry",
+        "type": "audio",
+        "format": "mp4",
+        "path": "assets/video",
+        "artist": "Bob Marley"
+    }],
+    "audios": [{
+        "name": "river-flows-in-you.mp3",
+        "display name": "River Flows in You",
+        "type": "audio",
+        "format": "mp3",
+        "path": "assets/audio",
+        "artist": "unknown"
+    }, {
+        "name": "Is-This-Love.mp3",
+        "display name": "Is This Love?",
+        "type": "audio",
+        "format": "mp3",
+        "path": "assets/audio",
+        "artist": "Bob Marley"
+    }, {
+        "name": "Could-You-Be-Loved.mp3",
+        "display name": "Could You Be Loved",
+        "type": "audio",
+        "format": "mp3",
+        "path": "assets/audio",
+        "artist": "unknown"
+    }, {
+        "name": "No-Woman-No-Cry.mp3",
+        "display name": "No Woman No Cry",
+        "type": "audio",
+        "format": "mp3",
+        "path": "assets/audio",
+        "artist": "Bob Marley"
+    }, {
+        "name": "Africa-Unite.mp3",
+        "display name": "Africa Unite",
+        "type": "audio",
+        "format": "mp3",
+        "path": "assets/audio",
+        "artist": "Bob Marley"
+    }, {
+        "name": "Iron-Lion-Zion.mp3",
+        "display name": "Iron Lion Zion",
+        "type": "audio",
+        "format": "mp3",
+        "path": "assets/audio",
+        "artist": "Bob Marley"
+    }, {
+        "name": "Kinky-Reggae.mp3",
+        "display name": "Kinky Reggae",
+        "type": "audio",
+        "format": "mp3",
+        "path": "assets/audio",
+        "artist": "Bob Marley"
+    }, {
+        "name": "Zimbabwe.mp3",
+        "display name": "Zimbabwe",
+        "type": "audio",
+        "format": "mp3",
+        "path": "assets/audio",
+        "artist": "Bob Marley"
+    }]
+}

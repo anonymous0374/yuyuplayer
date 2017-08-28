@@ -1,0 +1,6 @@
+.video {
+    width: 600px;
+    height: 400px;
+    display: inline-table;
+    border: solid 0.2em white;    
+}

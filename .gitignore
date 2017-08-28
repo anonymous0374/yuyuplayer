@@ -23,7 +23,7 @@ views/.vscode/*
 views/!.vscode/settings.json
 views/!.vscode/tasks.json
 views/!.vscode/launch.json
-!views/!.vscode/extensions.json
+#!views/!.vscode/extensions.json
 
 # misc
 views/!.sass-cache

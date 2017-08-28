@@ -1,0 +1,19 @@
+.resource-video {
+    padding: 1em;
+}
+
+.video {
+    width: 100%;    
+    display: inline-block;    
+}
+ 
+.resource-title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.resource-artist {
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
+}

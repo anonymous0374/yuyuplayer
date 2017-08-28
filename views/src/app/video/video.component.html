@@ -1,0 +1,8 @@
+<div class='resource-video'>
+    <p class='resource-title'>{{resource["display name"]}}</p>
+    <p class='resource-artist'>艺术家： {{resource.artist}}</p>
+    
+    <video controls preload="metadata" src='{{resource.path + "/" + resource.name}}' class='video'>
+    </video>
+</div>
+

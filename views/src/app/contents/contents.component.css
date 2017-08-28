@@ -1,0 +1,11 @@
+.contents {
+    width: 98%;
+    padding: 0 1%;
+    background-color: #f1f1f1;
+}
+
+.contents > video {
+    position: relative;
+    top: 50%;
+    transform: translateY(-100%);
+}

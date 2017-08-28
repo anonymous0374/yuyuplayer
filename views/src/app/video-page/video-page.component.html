@@ -1,0 +1,6 @@
+<div class='contents'>
+    <p>resource count: {{resources && resources.length}}</p>
+    <div *ngFor = "let resource of resources" class='video'>        
+        <app-video [resource]="resource" ></app-video>
+    </div>
+  </div>
